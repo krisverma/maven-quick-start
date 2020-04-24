@@ -1,2 +1,2 @@
 # maven-quick-start
-Sample project 123456
+Sample project 12345655
